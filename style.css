@@ -1,0 +1,222 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    max-width: 1440px;
+    max-height: 915px;
+    background-color: #9789F9;
+}
+.cards{
+    display: flex;
+    justify-content: space-between;
+}
+.card1{
+    background-color: #F5F3F9;
+    width: 370px;
+    height: 610px;
+    margin-top: 150px;
+    margin-left: 230px;
+    transition: 0.5s;
+}
+.card1:hover{
+    transform: scale(1.05);
+    transition: 0.5s;
+}
+.card1 .border_card1 p{
+    padding-left: 110px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+}
+.text_card1{
+    padding-top: 40px;
+}
+.text_card1 p strong{
+    font-size: 60px;
+    font-weight: normal;
+    font-family: 'Open Sans', sans-serif;
+    padding-left: 145px;
+}
+.text_card1 p strong sup{
+    font-size: 24px;
+}
+.text_card1 p em{
+    font-size: 16px;
+    font-style: normal;
+}
+
+.text_card1 p b{
+    font-size: 24px;
+    font-family: 'Bebas Neue', cursive;
+    padding-left: 157px;
+}
+.border_card1{
+    margin-top: 30px;
+    width: 370px;
+    height: 390px;
+    border-radius: 200px 200px 0 0;
+    background-color: white;
+}
+.car1_image{
+    padding: 30px 165px;
+}
+.button_card1{
+    font-family: 'Bebas Neue', cursive;
+    width: 200px;
+    height: 54px;
+    background-color: #6FCFFB;
+    border: none;
+    color: white;
+    font-size: 18px;
+    border-radius: 30px;
+    font-weight: 400;
+    margin-left: 80px;
+    margin-top: 30px;
+    transition: 0.5s;
+}
+.button_card1:hover{
+    background-color: #FD8D7B;
+    transition: 0.5s;
+}
+
+
+.card2{
+    background-color: #F5F3F9;
+    width: 370px;
+    height: 610px;
+    margin-top: 150px;
+    margin-left: 120px;
+    transition: 0.5s;
+}
+.card2:hover{
+    transform: scale(1.05);
+    transition: 0.5s;
+}
+.card2 .border_card2 p{
+    padding-left: 110px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+}
+.text_card2{
+    padding-top: 40px;
+}
+.text_card2 p strong{
+    font-size: 60px;
+    font-weight: normal;
+    font-family: 'Open Sans', sans-serif;
+    padding-left: 145px;
+}
+.text_card2 p strong sup{
+    font-size: 24px;
+}
+.text_card2 p em{
+    font-size: 16px;
+    font-style: normal;
+}
+
+.text_card2 p b{
+    font-size: 24px;
+    font-family: 'Bebas Neue', cursive;
+    padding-left: 152px;
+}
+.border_card2{
+    margin-top: 30px;
+    width: 370px;
+    height: 390px;
+    border-radius: 200px 200px 0 0;
+    background-color: white;
+}
+.car2_image{
+    padding: 30px 165px;
+}
+.button_card2{
+    font-family: 'Bebas Neue', cursive;
+    width: 200px;
+    height: 54px;
+    background-color: #6FCFFB;
+    border: none;
+    color: white;
+    font-size: 18px;
+    border-radius: 30px;
+    font-weight: 400;
+    margin-left: 80px;
+    margin-top: 30px;
+    transition: 0.5s;
+}
+.button_card2:hover{
+    background-color: #FD8D7B;
+    transition: 0.5s;
+}
+
+
+
+
+
+.card3{
+    background-color: #F5F3F9;
+    width: 370px;
+    height: 610px;
+    margin-top: 150px;
+    margin-left: 120px;
+    transition: 0.5s;
+}
+.card3:hover{
+    transform: scale(1.05);
+    transition: 0.5s;
+}
+.card3 .border_card3 p{
+    padding-left: 110px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+}
+.text_card3{
+    padding-top: 40px;
+}
+.text_card3 p strong{
+    font-size: 60px;
+    font-weight: normal;
+    font-family: 'Open Sans', sans-serif;
+    padding-left: 145px;
+}
+.text_card3 p strong sup{
+    font-size: 24px;
+}
+.text_card3 p em{
+    font-size: 16px;
+    font-style: normal;
+}
+
+.text_card3 p b{
+    font-size: 24px;
+    font-family: 'Bebas Neue', cursive;
+    padding-left: 130px;
+}
+.border_card3{
+    margin-top: 30px;
+    width: 370px;
+    height: 390px;
+    border-radius: 200px 200px 0 0;
+    background-color: white;
+}
+.car3_image{
+    padding: 30px 165px;
+}
+.button_card3{
+    font-family: 'Bebas Neue', cursive;
+    width: 200px;
+    height: 54px;
+    background-color: #6FCFFB;
+    border: none;
+    color: white;
+    font-size: 18px;
+    border-radius: 30px;
+    font-weight: 400;
+    margin-left: 80px;
+    margin-top: 30px;
+    transition: 0.5s;
+}
+.button_card3:hover{
+    background-color: #FD8D7B;
+    transition: 0.5s;
+}
